@@ -18,7 +18,7 @@ A collection of my advanced language programming course projects.
 * [Tower of Hanoi](90-b1)
 汉诺塔
 
-* [Ball Game](90-b2)
+* [Color Ball Game](90-b2)
 彩球游戏
 
 ## 开发环境
